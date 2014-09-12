@@ -48,6 +48,5 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %{perl_vendorarch}/HTML/*.pm
 %dir %{perl_vendorarch}/auto/HTML/Gumbo
-%{perl_vendorarch}/auto/HTML/Gumbo/*.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/HTML/Gumbo/*.so
 %{_mandir}/man3/*
