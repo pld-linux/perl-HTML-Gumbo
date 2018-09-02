@@ -14,6 +14,7 @@ Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/HTML/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	80c1657377e06d1017095c88e2eeaf45
 URL:		http://search.cpan.org/dist/HTML-Gumbo/
+BuildRequires:	gumbo-parser-devel
 BuildRequires:	perl(Alien::Base)
 BuildRequires:	perl(Alien::LibGumbo) >= 0.03
 BuildRequires:	perl-ExtUtils-CBuilder
