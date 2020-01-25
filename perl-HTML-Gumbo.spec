@@ -4,7 +4,6 @@
 #
 %define		pdir	HTML
 %define		pnam	Gumbo
-%include	/usr/lib/rpm/macros.perl
 Summary:	HTML::Gumbo - HTML5 parser based on gumbo C library
 Name:		perl-HTML-Gumbo
 Version:	0.18
