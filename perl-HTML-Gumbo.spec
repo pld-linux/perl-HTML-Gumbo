@@ -7,7 +7,7 @@
 Summary:	HTML::Gumbo - HTML5 parser based on gumbo C library
 Name:		perl-HTML-Gumbo
 Version:	0.18
-Release:	2
+Release:	3
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/HTML/%{pdir}-%{pnam}-%{version}.tar.gz
