@@ -6,12 +6,12 @@
 %define		pnam	Gumbo
 Summary:	HTML::Gumbo - HTML5 parser based on gumbo C library
 Name:		perl-HTML-Gumbo
-Version:	0.18
-Release:	10
+Version:	0.19
+Release:	1
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/HTML/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	2e6dd6060e982a7408f5b4cf7bfadd45
+# Source0-md5:	a70f17322bfef1709850e38d069003fc
 URL:		http://search.cpan.org/dist/HTML-Gumbo/
 BuildRequires:	gumbo-parser-devel
 BuildRequires:	perl(Alien::Base)
